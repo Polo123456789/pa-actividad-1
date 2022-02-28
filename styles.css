@@ -1,0 +1,28 @@
+.grid-container {
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    text-align: center;
+}
+
+#resultado, #actual {
+    text-align: right;
+    border-radius: 10%;
+    margin: 3px;
+    padding: 3px;
+}
+
+#resultado {
+    border: 2px solid blue;
+}
+
+#actual {
+    border: 2px solid red;
+}
+
+.btn-calc {
+    font-size: large;
+    font-weight: bold;
+    font-style: italic;
+    background-color: white;
+    color: blue;
+}
