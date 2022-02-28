@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Polo123456789/pa-actividad-1/issues"
   },
-  "homepage": "https://github.com/Polo123456789/pa-actividad-1#readme"
+  "homepage": "https://github.com/Polo123456789/pa-actividad-1#readme",
+  "devDependencies": {
+    "electron": "^17.1.0"
+  }
 }
