@@ -19,5 +19,8 @@
   "homepage": "https://github.com/Polo123456789/pa-actividad-1#readme",
   "devDependencies": {
     "electron": "^17.1.0"
+  },
+  "dependencies": {
+    "mousetrap": "^1.6.5"
   }
 }
